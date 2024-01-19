@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  },
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "Server With Express",
+  "main": "Server1.js",
+  "scripts": {
+    "start": "node Server1.js",
+    "test": "node Server1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "server test "
+  },
+  "keywords": [
+    "8-01-2024"
+  ],
+  "author": "Tanish Thorat",
+  "license": "ISC"
+}
